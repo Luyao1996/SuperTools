@@ -7,7 +7,7 @@ namespace Core.Test
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Luyao! 123");
+            Console.WriteLine("Hello Luyao!");
 
             try
             {
