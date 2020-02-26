@@ -3,3 +3,16 @@
 ################################################################################
 
 /Luyao.SuperTool.HttpHelper/obj
+/Luyao.SuperTool.HttpHelper/bin/Debug/netstandard2.0
+/Luyao.SuperTools/.vs/Luyao.SuperTools/v16
+/Luyao.SuperTools/bin/Debug/netstandard2.0
+/Luyao.SuperTools/obj
+/Luyao.SuperTools.Cache/bin/Debug/netstandard2.0
+/Luyao.SuperTools.Cache/obj
+/Luyao.SuperTools.ConfigHelper/bin/Debug/netstandard2.0
+/Luyao.SuperTools.ConfigHelper/obj
+/Luyao.SuperTools.Extensions/bin/Debug/netstandard2.0
+/Luyao.SuperTools.Extensions/obj
+/Tools.Test/bin/Debug/netcoreapp3.0
+/Tools.Test/obj/Debug/netcoreapp3.0
+/Tools.Test/obj
