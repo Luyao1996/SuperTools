@@ -6,6 +6,9 @@ using Luyao.SuperTools.Extensions;
 
 namespace Luyao.SuperTools.IOHelper
 {
+    /// <summary>
+    /// 配置文件帮助类
+    /// </summary>
     public class ConfigHelper
     {
         private static IConfigurationRoot File { get; set; }

@@ -8,7 +8,7 @@ using Luyao.SuperTools.Extensions;
 namespace Luyao.SuperTools.Cache
 {
     /// <summary>
-    /// 简单字典实现
+    /// 简单字典实现 
     /// </summary>
     public class SuperCache
     {

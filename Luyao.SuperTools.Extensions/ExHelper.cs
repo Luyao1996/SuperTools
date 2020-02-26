@@ -8,7 +8,7 @@ namespace Luyao.SuperTools.Extensions
 {
     /// <summary>
     /// 扩展帮助类
-    /// 无异常处理
+    /// 无异常处理 
     /// </summary>
     public static class ExHelper
     {
